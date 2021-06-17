@@ -1,0 +1,33 @@
+set size = {1000, 100};
+
+smarttile tile_montania {
+	tile tierra {
+		name = "tierrita";
+		tileset = "Mountain/Tileset";
+		default = false;
+		rule = {
+			{1,1,1},
+			{0,0,0},
+			{1,1,1}
+		}
+	}
+	tile pasto {
+		name = "pastito";
+		tileset = "Mountain/Tileset";
+		default = true;
+		rule = {
+			{0, 1, 0},
+			{0, 0, -1},
+			{-1, 0, 0}
+		}
+	}
+}
+
+section montania : RandomWalk {
+	a = 0.27;
+}
+
+sasageyo{
+	int c = -1;
+	int d = -1-(-1);
+}

@@ -532,7 +532,7 @@ sasageyo {
 }
 ```
 
-![](C:\Users\gabri\Downloads\606a4074-d092-4f41-8b7e-71dab097f4a3.jpg)
+![](https://github.com/Gabriel-Graciano-Herrera-2019630012/Compiladores2021B/blob/main/Proyecto/606a4074-d092-4f41-8b7e-71dab097f4a3.jpg)
 
 ### Ejemplo 2
 
@@ -648,4 +648,4 @@ sasageyo {
 
 ```
 
-![](C:\Users\gabri\Downloads\52109f73-69ef-4e1e-b2bf-5102dd75f192.jpg)
+![](https://github.com/Gabriel-Graciano-Herrera-2019630012/Compiladores2021B/blob/main/Proyecto/52109f73-69ef-4e1e-b2bf-5102dd75f192.jpg)
